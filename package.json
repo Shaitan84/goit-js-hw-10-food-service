@@ -14,12 +14,12 @@
     "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
   },
   "keywords": [],
-  "author": "Oleg Seleznev o.seleznev19884@gmail.com>",
+  "author": "Oleg Seleznev <o.seleznev1984@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/Shaitan84/goit-js-hw-10-food-service.git",
+  "homepage": "https://Shaitan84.github.io/goit-js-hw-10-food-service.git",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
